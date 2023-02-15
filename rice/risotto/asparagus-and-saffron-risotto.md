@@ -20,16 +20,18 @@
 
 Heat the chicken stock.  Mix in the tomato paste, saffron, and salt and stir until combined.  Keep warm.
 
-### Begin the rice
+### Sautee
 
 Heat a large saucepan or pressure cooker.  Add the oil, and then the onions.  Sautee until translucent.
 
 Add rice and cook briefly to develop the starch.  Add the wine and stir.  Allow to cook, stirring to prevent sticking, until most of the wine is absorbed.
 
-### Cook the rice
+### Simmer
 
 * If using a pressure cooker: Add all of the stock to the rice and cook on high pressure for 6 minutes, then vent pressure and uncover.
 * If using a saucepan: Add the stock gradually, about half a cup to a cup at a time, stirring to prevent sticking.  Make sure the risotto stays wet the entire time, and be careful not to break the rice grains.
+
+### Finish
 
 Add the butter and asparagus.  Cook, stirring to prevent sticking and to ensure even cooking, for around 2 minutes.
 
