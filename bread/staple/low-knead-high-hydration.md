@@ -10,19 +10,19 @@ High-hydration loaves have very open crumb and crispy outer crusts.
 
 ## Equipment
 
-Oven
-Nonstick pan (approx 9'' square)
-Parchment paper or clean canvas couche
-Dutch oven
-Cooling rack
+* Oven
+* Nonstick baking pan (approx 9'' square)
+* Parchment paper or clean canvas couche
+* Dutch oven
+* Cooling rack
 
 ## Ingredients
 
-500g flour
-500g water
-3g instant yeast
-10g salt
-20g extra virgin olive oil (optional, for flavor), plus some extra to coat pan
+* 500g flour
+* 500g water
+* 3g instant yeast
+* 10g salt
+* 20g extra virgin olive oil (optional, for flavor), plus some extra to coat pan
 
 ## Process
 
