@@ -34,7 +34,7 @@ Lightly oil the nonstick pan, and pour the mixture into it.
 
 ### Ferment and fold
 
-From this point, the mixture develops from a stiff batter to a soft, gel-like dough over the course of several hours.  To aid this process, the gluten strands in the dough need to be aligned and stretched through the action of stretching/folding and fermentation.  The dough will generally not "rise" in the typical sense, though it will increase in volume somewhat.
+From this point, the mixture develops from a stiff batter to a soft, gel-like dough over the course of several hours.  To aid this process, the gluten strands in the dough need to be aligned and stretched through the action of stretching/folding and fermentation.  The dough won't "rise" in the typical sense, though it will increase in volume somewhat.
 
 There are no hard rules for this stage, but some guidelines:
 
