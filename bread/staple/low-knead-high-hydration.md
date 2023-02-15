@@ -8,9 +8,7 @@ High-hydration loaves have very open crumb and crispy outer crusts.
 * [NYT no knead bread](https://www.youtube.com/watch?v=13Ah9ES2yTU): 100% hydration, overnight ferment, very good demonstration of transferring dough into hot dutch oven
 * [NYT no knead bread v2](https://www.youtube.com/watch?v=4LaODcYSRXU): flavor/timing recommendations c.f. above
 
-## Recipe
-
-### Equipment
+## Equipment
 
 Oven
 Nonstick pan (approx 9'' square)
@@ -18,7 +16,7 @@ Parchment paper or clean canvas couche
 Dutch oven
 Cooling rack
 
-### Ingredients
+## Ingredients
 
 500g flour
 500g water
@@ -26,7 +24,7 @@ Cooling rack
 10g salt
 20g extra virgin olive oil (optional, for flavor), plus some extra to coat pan
 
-### Process
+## Process
 
 Mix flour, yeast, and salt.  Add water and stir until thoroughly mixed, to a consistency that resembles stiff lumpy pancake batter.
 
