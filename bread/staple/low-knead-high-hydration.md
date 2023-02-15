@@ -19,24 +19,34 @@ High-hydration loaves have very open crumb and crispy outer crusts.
 ## Ingredients
 
 * 500g flour
-* 500g water
+* 500g water (room temperature)
 * 3g instant yeast
 * 10g salt
 * 20g extra virgin olive oil (optional, for flavor), plus some extra to coat pan
 
 ## Process
 
+### Mix
+
 Mix flour, yeast, and salt.  Add water and oil.  Stir until thoroughly mixed, to a consistency that resembles stiff lumpy pancake batter.
 
 Lightly oil the nonstick pan, and pour the mixture into it.
 
-Cover and let rest for 20 minutes, then fold the dough (see reference above for technique).  Repeat rest-and-fold procedure 2-3 times, until the dough resembles a smooth stretchy gel.
+### Ferment and fold
 
-Cover and let rest for 2 hours on countertop, or overnight in the fridge.
+From this point, the mixture develops from a stiff batter to a soft, gel-like dough over the course of several hours.  To aid this process, the gluten strands in the dough need to be aligned and stretched through the action of stretching/folding and fermentation.  The dough will generally not "rise" in the typical sense, though it will increase in volume somewhat.
 
-Liberally flour parchment paper or couche (wet dough is sticky!).  Gently turn dough out onto paper, and flour the exposed surface to reduce stickiness.  Let rest 2 more hours.
+There are no hard rules for this stage, but some guidelines:
 
-Meanwhile, place dutch oven in oven and preheat to 475F.  Give some extra time for the dutch oven to heat.
+* The dough should ferment for at least 4 total hours at room temperature, and ideally overnight for best flavor.
+* Do not overwork the dough!  Gentle, gravity-assisted folding methods are best.  See the pan de cristal recipe above for a technique reference.
+* The number of sets of folds can be varied - more folds gives a crispier crust and a tighter, more-uniform crumb.  Visibly, the dough will become smoother and tighter as it is folded.
+* The dough should rest for at least 20 minutes between sets of folds to allow the gluten structure to relax.
+* The dough should be allowed to rest *uncovered* on a well-floured piece of parchment paper or canvas couche for at least an hour prior to baking; this helps develop the crust and helps smooth transfer to the dutch oven or baking steel.  Dust the entire exposed surface of the dough with flour, and *make sure it is not sticking to the parchment or canvas*.
+
+### Bake
+
+Place dutch oven in oven and preheat to 475F.  Give some extra time for the dutch oven to heat.
 
 Transfer dough into hot dutch oven (see reference above for technique), and cover immediately with lid.  Bake covered for 20 minutes, and then uncovered for 15 more.
 
