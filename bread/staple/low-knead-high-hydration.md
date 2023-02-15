@@ -26,7 +26,7 @@ High-hydration loaves have very open crumb and crispy outer crusts.
 
 ## Process
 
-Mix flour, yeast, and salt.  Add water and stir until thoroughly mixed, to a consistency that resembles stiff lumpy pancake batter.
+Mix flour, yeast, and salt.  Add water and oil.  Stir until thoroughly mixed, to a consistency that resembles stiff lumpy pancake batter.
 
 Lightly oil the nonstick pan, and pour the mixture into it.
 
