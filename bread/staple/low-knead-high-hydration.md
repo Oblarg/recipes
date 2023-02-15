@@ -4,9 +4,9 @@ High-hydration loaves have very open crumb and crispy outer crusts.
 
 ## Reference recipes
 
-[Pan de cristal](https://www.kingarthurbaking.com/recipes/pan-de-cristal-recipe): 100% hydration, very good folding technique demonstration
-[NYT no knead bread](https://www.youtube.com/watch?v=13Ah9ES2yTU): 100% hydration, overnight ferment, very good demonstration of transferring dough into hot dutch oven
-[NYT no knead bread v2](https://www.youtube.com/watch?v=4LaODcYSRXU): flavor/timing recommendations c.f. above
+* [Pan de cristal](https://www.kingarthurbaking.com/recipes/pan-de-cristal-recipe): 100% hydration, very good folding technique demonstration
+* [NYT no knead bread](https://www.youtube.com/watch?v=13Ah9ES2yTU): 100% hydration, overnight ferment, very good demonstration of transferring dough into hot dutch oven
+* [NYT no knead bread v2](https://www.youtube.com/watch?v=4LaODcYSRXU): flavor/timing recommendations c.f. above
 
 ## Recipe
 
