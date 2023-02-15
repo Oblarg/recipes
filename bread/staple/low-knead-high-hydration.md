@@ -1,6 +1,6 @@
 # Low-knead high-hydration bread
 
-High-hydration loaves have very open crumb and crispy outer crusts.
+High-hydration loaves have very open crumb and crispy crusts.
 
 ## Reference recipes
 
